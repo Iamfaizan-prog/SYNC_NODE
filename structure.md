@@ -41,7 +41,7 @@ SYNC_NODE/
 │   │   └── main.py                       # FastAPI entrypoint and app configuration
 │   ├── alembic.ini                       # Alembic migration config
 │   ├── Dockerfile                        # Backend container configuration
-│   └── requirements.txt                  # Python dependencies for the backend
+│   └── requirements.txt                  # Python dependencies for the backendB
 ├── frontend/
 │   ├── src/
 │   │   ├── components/
